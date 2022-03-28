@@ -15,6 +15,16 @@
   margin-left: 25px;
 }
 
+.screen-header__icons span:last-child {
+  position: relative;
+}
+
+.screen-header__noti-point {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+
 @keyframes rotateCog {
   from {
     transform: none;
