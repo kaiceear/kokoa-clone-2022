@@ -9,3 +9,10 @@
   color: white;
   font-weight: 600;
 }
+
+.badge__point {
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: tomato;
+}

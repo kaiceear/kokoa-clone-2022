@@ -40,7 +40,8 @@
 }
 
 #splash-screen {
-  background-color: var(--choco);
+  /* background-color: var(--choco); */
+  background: linear-gradient(var(--choco), var(--kaki));
   color: var(--mint);
   position: absolute;
   height: 100vh;
